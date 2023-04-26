@@ -50,4 +50,5 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 # git apply ../config-openwrt/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
 # ------------------------------- Other ends -------------------------------
+git clone https://github.com/morrownr/8821cu-20210916.git package/kernek/8821cu-20210916
 
