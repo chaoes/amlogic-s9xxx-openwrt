@@ -7270,7 +7270,8 @@ CONFIG_PACKAGE_whereis=y
 # CONFIG_PACKAGE_yq is not set
 # CONFIG_PACKAGE_zyxel-reset is not set
 # end of Utilities
-
+#8821cu
+CONFIG_PACKAGE_8821cu-20210916=y
 #
 # Xorg
 #
